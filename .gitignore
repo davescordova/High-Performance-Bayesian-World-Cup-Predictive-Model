@@ -1,0 +1,10 @@
+# Ignore generated assets and data files
+*.csv
+*.png
+*.jpg
+*.jpeg
+
+# Ignore Jupyter Notebook checkpoints and caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
